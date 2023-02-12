@@ -25,6 +25,7 @@ const App = () => {
         </Switch>
       </Router>
     </div>
+    return info
   )
 }
 
